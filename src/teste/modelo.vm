@@ -1,0 +1,8 @@
+Listagem dos itens de um ArrayList  
+  
+Existem $lista.size() itens na lista.  
+  
+-------------------  
+#foreach ($item in $lista)  
+    $item  
+#end  
